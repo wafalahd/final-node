@@ -1,0 +1,5 @@
+{"dbURI":"mongodb+srv://lahdwafa:emnabeyaatef0@cluster0.obre8zp.mongodb.net/final-node",
+
+"jwtsecret": "votre_secret_jwt_ici",
+
+"StripeAPIKey" :"sk_test_51NuTReDrQl7gYAX8QGWdZfmTxatdErPhBLZoAopz8kGbsQPSH6XGNHeA8UacVfbXjrqzZ7zM5vAnUE7K0tVPvmQw00edBa8R5E"}
